@@ -1,2 +1,4 @@
 # cd
-small app to open a terminal window at the current directory
+Small app to open a terminal window at the current directory.
+
+It uses an apple script and is built with the mac automator app.
